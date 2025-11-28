@@ -1,4 +1,4 @@
-<img width="174" height="165" alt="image" src="https://github.com/user-attachments/assets/7bb68dc4-8d99-47a8-badf-4c36741acf7b" /># 🏠 Homi — Finance Management
+#<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7bb68dc4-8d99-47a8-badf-4c36741acf7b" /> Homi — Finance Management
 
 **Aplicativo de organização financeira e doméstica para grupos e famílias**
 
